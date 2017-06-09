@@ -1,0 +1,110 @@
+<resource>
+    <!-- A -->
+
+    <string name="add"></string>
+    <string name="address"></string>
+
+    <!-- B -->
+
+    <!-- C -->
+
+    <string name="city"></string>
+    <string name="click_here"></string>
+    <string name="conditions"></string>
+    <string name="confirm_password"></string>
+    <string name="connect"></string>
+    <string name="contact"></string>
+    <string name="contact_us"></string>
+
+    <!-- D -->
+
+    <string name="date_of_birth"></string>
+    <string name="delete"></string>
+
+    <!-- E -->
+
+    <string name="edit"></string>
+    <string name="email_address"></string>
+    <string name="example"></string>
+    <string name="exit"></string>
+
+    <!-- F -->
+
+    <string name="female"></string>
+    <string name="first_name"></string>
+    <string name="forgot_your_password"></string>
+    <string name="full_name"></string>
+
+    <!-- G -->
+
+    <!-- H -->
+
+    <!-- I -->
+
+    <!-- J -->
+
+    <!-- K -->
+
+    <!-- L -->
+
+    <string name="last_name"></string>
+    <string name="login"></string>
+    <string name="logout"></string>
+
+    <!-- M -->
+
+    <string name="male"></string>
+
+    <!-- N -->
+
+    <string name="name"></string>
+    <string name="news"></string>
+    <string name="notification"></string>
+
+    <!-- O -->
+
+    <!-- P -->
+
+    <string name="password"></string>
+    <string name="phone"></string>
+    <string name="phone_number"></string>
+
+    <!-- Q -->
+
+    <string name="quit"></string>
+
+    <!-- R -->
+
+    <string name="rate"></string>
+    <string name="register"></string>
+
+    <!-- S -->
+
+    <string name="sign_up"></string>
+    <string name="store"></string>
+
+    <!-- T -->
+
+    <string name="terms"></string>
+    <string name="terms_and_conditions"></string>
+    <string name="terms_of_service"></string>
+    <string name="thank_you"></string>
+
+    <!-- U -->
+
+    <string name="username"></string>
+
+    <!-- V -->
+
+    <string name="view"></string>
+
+    <!-- W -->
+
+    <string name="welcome"></string>
+
+    <!-- X -->
+
+    <!-- Y -->
+
+    <!-- Z -->
+</resource>

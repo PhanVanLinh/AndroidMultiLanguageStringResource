@@ -1,0 +1,107 @@
+<resource>
+    <!-- A -->
+
+    <string name="add">Thêm</string>
+    <string name="address">Địa chỉ</string>
+
+    <!-- B -->
+
+    <!-- C -->
+
+    <string name="city">City</string>
+    <string name="click_here">Nhấn vào đây</string>
+    <string name="conditions">Conditions</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="connect">Connect</string>
+    <string name="contact">Contact</string>
+    <string name="contact_us">Contact Us</string>
+
+    <!-- D -->
+
+    <string name="date_of_birth"></string>
+    <string name="delete">Xóa</string>
+
+    <!-- E -->
+
+    <string name="edit">Chỉnh sửa</string>
+    <string name="email_address"></string>
+    <string name="example"></string>
+    <string name="exit"></string>
+
+    <!-- F -->
+
+    <string name="female">Nữ</string>
+    <string name="first_name">Tên</string>
+    <string name="forgot_your_password">Quên mật khẩu</string>
+    <string name="full_name">Họ và tên</string>
+
+    <!-- G -->
+
+    <!-- H -->
+
+    <!-- I -->
+
+    <!-- J -->
+
+    <!-- K -->
+
+    <!-- L -->
+
+    <string name="last_name">Họ</string>
+    <string name="login">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+
+    <!-- M -->
+
+    <string name="male">Nam</string>
+
+    <!-- N -->
+    <string name="name">Tên</string>
+
+    <!-- O -->
+
+    <!-- P -->
+
+    <string name="password">Mật khẩu</string>
+    <string name="phone"></string>
+    <string name="phone_number"></string>
+
+    <!-- Q -->
+
+    <string name="quit">Kết thúc</string>
+
+    <!-- R -->
+
+    <string name="rate">Xếp hạng</string>
+    <string name="register">Đăng kí</string>
+
+    <!-- S -->
+
+    <string name="sign_up"></string>
+    <string name="store">Cửa hàng</string>
+
+    <!-- T -->
+
+    <string name="terms"></string>
+    <string name="terms_and_conditions"></string>
+    <string name="terms_of_service"></string>
+    <string name="thank_you">Cảm ơn</string>
+
+    <!-- U -->
+
+    <string name="username">Tên tài khoản</string>
+
+    <!-- V -->
+
+    <string name="view">Xem</string>
+
+    <!-- W -->
+
+    <string name="welcome">Chào mừng</string>
+
+    <!-- X -->
+
+    <!-- Y -->
+
+    <!-- Z -->
+</resource>
